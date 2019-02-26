@@ -5,7 +5,7 @@
 #   \___/  \___  >\___  >__|  \____/|__|
 #              \/     \/
 #--Licensed under GNU AGPL 3
-#----Authored by Vector/NullArray
+#----Authored by Vector/NullArray for GS
 #------For further Open Source Development
 ###############################################
 
