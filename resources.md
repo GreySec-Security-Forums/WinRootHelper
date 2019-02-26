@@ -7,9 +7,14 @@ I reccomend starting at [Atomic Red Team](https://github.com/redcanaryco/atomic-
 Below are a few other scripts and repos i've come across that may be of interest.
 
 https://github.com/mdsecactivebreach/SharpPack
-https://raw.githubusercontent.com/thereisnotime/xxSysInfot
+
+https://raw.githubusercontent.com/thereisnotime
+
 https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
-https://theitbros.com/managing-windows-defender-using-powershell/
+
+https://theitbros.com/managing-windows-defender-using-powershell
+
 https://github.com/GDSSecurity/Windows-Exploit-Suggester
+
 https://github.com/Arno0x/PowerShellScripts
 
