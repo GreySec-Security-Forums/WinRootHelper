@@ -1,4 +1,4 @@
-# WinRoothelper
+# WinRootHelper
 PowerShell script to help with privilege escalation on a compromised Windows box.
 
 This script is partially based on it's Linux counterpart [RootHelper](https://github.com/NullArray/RootHelper). 
