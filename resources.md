@@ -6,7 +6,7 @@ and techniques on Windows.
 I reccomend starting at [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) by [RedCanaryCo](https://github.com/redcanaryco).
 
 
-Below are a few other scripts and repos i've come across that may be of interest.
+Below are a few other scripts, repos and sites i've come across that may be of interest.
 
 https://github.com/mdsecactivebreach/SharpPack
 
