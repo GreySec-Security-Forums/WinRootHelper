@@ -5,6 +5,8 @@ and techniques on Windows.
 
 I reccomend starting at [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) by [RedCanaryCo](https://github.com/redcanaryco).
 
+I suggest we include [this](https://github.com/bitsadmin/wesng) tool in an upcoming update as well.
+
 
 Below are a few other scripts, repos and sites i've come across that may be of interest.
 
